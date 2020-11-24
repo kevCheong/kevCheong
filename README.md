@@ -1,4 +1,4 @@
-<img src= "https://github.com/Juel07/Juel07/blob/master/github-banner-BW.png"></img>
+<img src= "https://github.com/kevCheong/kevCheong/blob/main/Untitled%20design.png"></img>
 <br>
 <br>
 Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spectrum of fronts like app development, web development, android development and game development.
