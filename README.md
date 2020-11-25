@@ -3,13 +3,15 @@
 <br>
 <br>
 Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spectrum of fronts like app 
-development, web development, android development and game development.
+development, web development, android development and game development. Make sure to check out the projects that I have been working on while you are here!
 
 ### ⚡ Projects/achievements
 
 ### ✔️ I'm currently learning
-- JavaScript
-- ReactJS
+- React.JS
+- Bootstrap
+- Learning PTV API to make custom tram tracker widget for personal use
+
 
 ### 💻 Projects I'm working on
 - Building projects and my portfolio website. 
