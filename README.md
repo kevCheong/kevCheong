@@ -2,7 +2,8 @@
 <img src= "https://github.com/kevCheong/kevCheong/blob/main/Untitled%20design.png"></img>
 <br>
 <br>
-Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spectrum of fronts like app development, web development, android development and game development.
+Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spectrum of fronts like app 
+development, web development, android development and game development.
 
 ### ⚡ Projects/achievements
 
@@ -15,7 +16,7 @@ Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spe
 Although, I think I'll wait to learn React before I build the website.
 
 ### 💡 Languages
-<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/python.png" alt=sass width="80" height="80"></img>
+<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/python.png" alt=sass width="80" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/java.svg" alt=sass width="80" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/c.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/php.png" alt=sass width="60" height="60"></img>
