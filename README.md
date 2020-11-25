@@ -11,6 +11,13 @@ development, web development, android development and game development. Make sur
 <br>
 
 ### 💡 Projects/achievements
+* [EZMaps (Simpler Google maps for the elderly)](https://github.com/kevCheong/EZMaps)
+* [ReeTech (Web Application for recycling e-waste)](https://github.com/kevCheong/ReeTech)
+* [Unity FPS game (Left4dead inspired)](https://github.com/kevCheong/zombie_FPS)
+* [PTV Tram widget (Work in progress)](https://github.com/kevCheong/PTV-Widget)
+
+
+
 
 ### ✔️ I'm currently learning
 - React.JS
