@@ -22,7 +22,7 @@ Although, I think I'll wait to learn React before I build the website.
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/js.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/react.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/mysql.png" alt=sass width="60" height="60"></img>
-<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/java.svg" alt=sass width="60" height="60"></img>
+<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/java.svg" alt=sass width="80" height="60"></img>
 
 
 ### 🌴 Fun facts
