@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spe
 Although, I think I'll wait to learn React before I build the website.
 
 ### 💡 Languages/Skills
-<img src= "https://github.com/kevCheong/kevCheong/blob/main/icons/python.png"></img>
+<img src= "https://github.com/kevCheong/kevCheong/blob/main/icons/python.png" alt=sass width="60" height="60"></img>
 
 ### 🌴 Fun facts
 - gamer
