@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+
+
 <img src= "https://github.com/kevCheong/kevCheong/blob/main/Untitled%20design.png"></img>
 <br>
 <br>
@@ -5,6 +8,7 @@ Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spe
 
 ### ⚡ Projects/achievements
 <img src= "https://github.com/kevCheong/kevCheong/blob/main/chrome.svg"></img>
+<i class="devicon-chrome-plain"></i>
 
 ### ✔️ I'm currently learning
 - JavaScript
