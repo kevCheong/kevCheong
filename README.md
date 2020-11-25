@@ -48,7 +48,7 @@ Although, I think I'll wait to learn React before I build the website.
 
 ### ☕ Get in touch
  <a href="mailto:kchk98@gmail.com">
-  <img align="left" alt="Kevin Cheong | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <img align="left" margin = "auto" alt="Kevin Cheong | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
  </a>
 <br>
 <br>
