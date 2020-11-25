@@ -1,5 +1,5 @@
 
-<img src= "https://github.com/kevCheong/kevCheong/blob/main/Untitled%20design.png" alt=sass width="1000" height="400"></img>
+<img src= "https://github.com/kevCheong/kevCheong/blob/main/Untitled%20design.png" alt=sass width="900" height="350"></img>
 <br>
 <br>
 Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spectrum of fronts like app 
