@@ -17,7 +17,7 @@ Although, I think I'll wait to learn React before I build the website.
 ### 💡 Languages
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/python.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/java.svg" alt=sass width="80" height="60"></img>
-<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/c.png" alt=sass width="80" height="60"></img>
+<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/c.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/php.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/js.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/mysql.png" alt=sass width="60" height="60"></img>
@@ -29,11 +29,10 @@ Although, I think I'll wait to learn React before I build the website.
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/html5.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/css3.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/json.png" alt=sass width="60" height="60"></img>
-<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/jQuery.png" alt=sass width="60" height="60"></img>
+<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/jquery.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/github.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/mongo.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/heroku.png" alt=sass width="60" height="60"></img>
-<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/mongo.png" alt=sass width="60" height="60"></img>
 
 ### 🌴 Fun facts
 - gamer
