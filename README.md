@@ -16,6 +16,12 @@ Although, I think I'll wait to learn React before I build the website.
 
 ### 💡 Languages/Skills
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/python.png" alt=sass width="60" height="60"></img>
+<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/node.png" alt=sass width="60" height="60"></img>
+<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/html5.png" alt=sass width="60" height="60"></img>
+<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/css3.png" alt=sass width="60" height="60"></img>
+<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/js.png" alt=sass width="60" height="60"></img>
+<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/react.png" alt=sass width="60" height="60"></img>
+<img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/mysql.png" alt=sass width="60" height="60"></img>
 
 ### 🌴 Fun facts
 - gamer
