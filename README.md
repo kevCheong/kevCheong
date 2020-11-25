@@ -2,8 +2,8 @@
 <img src= "https://github.com/kevCheong/kevCheong/blob/main/Untitled%20design.png" alt=sass width="800" height="320"></img>
 <br>
 <br>
-Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spectrum of fronts like app 
-development, web development, android development and game development. Make sure to check out the projects that I have been working on while you are here!
+<div style="text-align: justice"> Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spectrum of fronts like app 
+development, web development, android development and game development. Make sure to check out the projects that I have been working on while you are here! </div>
 
 ### ⚡ Projects/achievements
 
