@@ -1,14 +1,14 @@
 <div align = "center">
 <img src= "https://github.com/kevCheong/kevCheong/blob/main/Untitled%20design.png" alt=sass width="850" height="340"></img>
 </div>
-<br>
+
 <br>
 
 <div align = "center" font-size:13pt > Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spectrum of fronts like app 
 development, web development, android development and game development. Make sure to check out the projects that I have been working on 
  while you are here! 
 </div>
-
+<br>
 ### ⚡ Projects/achievements
 
 ### ✔️ I'm currently learning
