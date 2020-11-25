@@ -1,5 +1,5 @@
 <div align = "center">
-<img src= "https://github.com/kevCheong/kevCheong/blob/main/Untitled%20design.png" alt=sass width="820" height="320"></img>
+<img src= "https://github.com/kevCheong/kevCheong/blob/main/Untitled%20design.png" alt=sass width="850" height="340"></img>
 </div>
 <br>
 <br>
