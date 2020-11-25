@@ -15,7 +15,7 @@ development, web development, android development and game development. Make sur
 ### ✔️ I'm currently learning
 - React.JS
 - Bootstrap
-- Learning PTV API to make custom tram tracker widget for personal use
+- PTV API to make custom tram tracker widget for personal use
 
 
 ### 💻 Projects I'm working on
