@@ -9,6 +9,7 @@ development, web development, android development and game development. Make sur
  while you are here! 
 </div>
 <br>
+
 ### ⚡ Projects/achievements
 
 ### ✔️ I'm currently learning
