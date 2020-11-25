@@ -1,5 +1,5 @@
 
-<img style = "margin:auto" src= "https://github.com/kevCheong/kevCheong/blob/main/Untitled%20design.png" alt=sass width="800" height="320"></img>
+<img align = "center" src= "https://github.com/kevCheong/kevCheong/blob/main/Untitled%20design.png" alt=sass width="800" height="320"></img>
 <br>
 <br>
 
