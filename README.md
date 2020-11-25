@@ -4,7 +4,8 @@
 <br>
 
 <div style="text-align: right"> Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spectrum of fronts like app 
-development, web development, android development and game development. Make sure to check out the projects that I have been working on while you are here! 
+development, web development, android development and game development. Make sure to check out the projects that I have been working on 
+ while you are here! 
 </div>
 
 ### ⚡ Projects/achievements
