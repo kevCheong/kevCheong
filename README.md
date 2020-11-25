@@ -47,7 +47,9 @@ Although, I think I'll wait to learn React before I build the website.
 - I speak 4 languages! (English, Mandarin, Cantonese, Malay)
 
 ### ☕ Get in touch
-- filler
+ <a href="mailto:kchk98@gmail.com">
+  <img align="left" alt="Kevin Cheong | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+ </a>
 <br>
 <br>
 
