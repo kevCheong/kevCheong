@@ -15,12 +15,13 @@ development, web development, android development and game development. Make sur
 ### ✔️ I'm currently learning
 - React.JS
 - Bootstrap
-- PTV API to make custom tram tracker widget for personal use
+- SEO
+- Graphic Design/Drawing
 
 
 ### 💻 Projects I'm working on
-- Building projects and my portfolio website. 
-Although, I think I'll wait to learn React before I build the website.
+- PTV API to make custom tram tracker widget for personal use
+- Personal portfolio site
 
 ### ⚡ Languages
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/python.png" alt=sass width="60" height="60"></img>
@@ -41,10 +42,6 @@ Although, I think I'll wait to learn React before I build the website.
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/github.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/mongo.png" alt=sass width="60" height="60"></img>
 <img style = "margin:auto;" src = "https://github.com/kevCheong/kevCheong/blob/main/icons/heroku.png" alt=sass width="60" height="60"></img>
-
-### 🌴 Fun facts
-- gamer
-- I speak 4 languages! (English, Mandarin, Cantonese, Malay)
 
 ### ☕ Get in touch
  <a href="mailto:kchk98@gmail.com">
