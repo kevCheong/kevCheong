@@ -4,7 +4,7 @@
 Welcome to my GitHub! I'm Kevin, a passionate coder with exposure to a broad spectrum of fronts like app development, web development, android development and game development.
 
 ### ⚡ Projects/achievements
-
+<img src= "https://github.com/kevCheong/kevCheong/blob/main/chrome.svg"></img>
 
 ### ✔️ I'm currently learning
 - JavaScript
