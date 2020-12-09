@@ -21,7 +21,7 @@ development, web development, android development and game development. Make sur
 
 
 ### ✔️ I'm currently learning
-- React.JS
+- Redux for React.JS
 - Bootstrap
 - SEO
 - Graphic Design/Drawing
