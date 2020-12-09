@@ -13,6 +13,7 @@ development, web development, android development and game development. Make sur
 ### 💡 Projects
 * [EZMaps (Simpler Google maps for the elderly)](https://github.com/kevCheong/EZMaps)
 * [ReeTech (Web Application for recycling e-waste)](https://github.com/kevCheong/ReeTech)
+* [Accord (Discord clone for use with friends)](https://github.com/kevCheong/my-discord)
 * [Unity FPS game (Left4dead inspired)](https://github.com/kevCheong/zombie_FPS)
 * [PTV Tram widget (Work in progress)](https://github.com/kevCheong/PTV-Widget)
 
